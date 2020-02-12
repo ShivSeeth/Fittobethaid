@@ -1,0 +1,39 @@
+.nav li {list-style-type: none; display: inline-block;
+	font-size: 20px; border: none; padding: 7px 20px}
+.nav{text-align: center}
+.nav a:link{color: black;}
+.nav a:visited{color: black;}
+.nav a:hover {color: #CC9900;}
+.nav a:active {color: #CC9900;}
+.nav a {text-decoration: none}
+.nav {font-family: "lucida console", Monaco, monospace;}
+
+.navbox {
+	border-bottom: solid 1px; 
+	width: 80%;
+	margin: auto;
+}
+
+.picturebox {
+	width: 38em;
+	display: block; 
+	margin: auto;
+	padding: 10px;
+	border: solid;
+}
+.menubox{
+	width: 60%;
+	display: block;
+	margin: auto;
+	border: solid;
+}
+.aboutbox{
+	width: 60%;
+	margin: auto;
+	border: solid 1px;
+	padding: 1em;
+}
+.aboutbox h3{
+	line-height: 25px;
+}
+body{background-color: #ccffff}
